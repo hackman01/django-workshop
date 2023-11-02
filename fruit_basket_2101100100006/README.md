@@ -46,20 +46,23 @@ To run this project change directory to the project folder and run the command
 
 `/` (home)
 
-![App Screenshot](https://github.com/hackman01/iert-django-workshop/assets/84094140/fe7c977e-4717-4f8b-826c-ddc514eb94bb)
+![Screenshot_2023-11-02_19_41_56](https://github.com/hackman01/django-workshop/assets/84094140/d94a11f3-fc5e-4fa2-b0bb-a5fa831dc576)
+
 
 `/login`
 
-![App Screenshot](https://github.com/hackman01/iert-django-workshop/assets/84094140/23c58530-f757-4f42-ba6a-641282acc884)
+![login](https://github.com/hackman01/django-workshop/assets/84094140/dcd22a26-5460-46bc-b4ac-819f0a2289a8)
+
 
 
 `/register`
 
 
-![register](https://github.com/hackman01/iert-django-workshop/assets/84094140/568620db-97cc-4a76-b3a9-a054a4a94758)
+![register](https://github.com/hackman01/django-workshop/assets/84094140/9b37f908-27fc-449b-b8ee-9d3ca68607b8)
+
 
 
 `/` (Authenticated user)
 
 
-![loginA](https://github.com/hackman01/iert-django-workshop/assets/84094140/0202cbc5-7f58-4ac3-a4aa-45f4aba65c0e)
+![loginA](https://github.com/hackman01/django-workshop/assets/84094140/b4c615f2-7c65-487f-a858-a5761c2da278)
